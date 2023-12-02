@@ -1,1 +1,40 @@
 [2023-12-02 11:13:11,452: ERROR: main: faiel to zero division :: division by zero]
+[2023-12-02 13:30:01,746: INFO: main: start data ingestion :: data_ingestion]
+[2023-12-02 13:30:01,748: INFO: common: successfully read yaml file!]
+[2023-12-02 13:30:01,751: INFO: common: successfully read yaml file!]
+[2023-12-02 13:30:01,753: INFO: common: created directories as :: artifacts]
+[2023-12-02 13:30:01,753: INFO: common: created directories as :: artifacts/data_ingestion]
+[2023-12-02 13:30:04,702: ERROR: data_ingestion: failed to download file :: [Errno 2] No such file or directory: 'artifact/data_ingestion/data.zip']
+[2023-12-02 13:30:04,704: ERROR: data_ingestion: failed to extract zip file :: [Errno 2] No such file or directory: 'artifact/data_ingestion/data.zip']
+[2023-12-02 13:31:03,949: INFO: main: start data ingestion :: data_ingestion]
+[2023-12-02 13:31:03,951: INFO: common: successfully read yaml file!]
+[2023-12-02 13:31:03,951: INFO: common: successfully read yaml file!]
+[2023-12-02 13:31:03,952: INFO: common: created directories as :: artifacts]
+[2023-12-02 13:31:03,952: INFO: common: created directories as :: artifacts/data_ingestion]
+[2023-12-02 13:31:11,305: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11637163
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "eb116fb4c488f5573376fe99f7b0b0fe00ddd3e72a24098edea89e80fb6ea744"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: DBE2:0677:4F588E:61C3C1:656AE401
+Accept-Ranges: bytes
+Date: Sat, 02 Dec 2023 08:01:04 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10233-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1701504065.569530,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 663bd7f462cdcab14d183267f96aaafcf0875250
+Expires: Sat, 02 Dec 2023 08:06:04 GMT
+Source-Age: 62
+
+]
