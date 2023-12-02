@@ -26,7 +26,8 @@ list_of_line = [
     "params.yaml",
     "requirements.txt",
     "research/test.ipynb",
-    "test.py"
+    "test.py",
+    "templates/index.html"
 
 
 
