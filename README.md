@@ -12,3 +12,12 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+
+# How to run this project:
+
+# requirents:
+conda create -n env_name python=3.8 -y
+
+# then run the aap by using following command:
+python app.py
+
