@@ -15,9 +15,19 @@
 
 # How to run this project:
 
+Clone this repo:
+
+https://github.com/rahul6796/Imgae-classification-end-to-end-Imp
+
 # requirents:
+
 conda create -n env_name python=3.8 -y
 
+# activate this env_name:
+
+conda activate env_name
+
 # then run the aap by using following command:
+
 python app.py
 
